@@ -10,10 +10,4 @@ main()
 	Rika = 90;
 	
 
-
-    Goukei = Kokugo + Shakai + Rika;
-
-    Heikin = Goukei / 3;
-
-    retuin0;
 }
