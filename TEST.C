@@ -12,6 +12,13 @@ main()
     printf("—‰È‚Ì“_”=");
 	scanf("%d",&Rika);
 
+	if (Kokugo < 90) {
+		Kokugo = Kokugo / 2;
+	} else {
+		Kokugo = Kokugo;
+	}
+
+
     Goukei = Kokugo + Shakai + Rika;
 
     Heikin = Goukei / 3;
